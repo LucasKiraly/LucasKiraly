@@ -30,8 +30,8 @@
 
 </a>
 
-<a href="https://github.com/brunomarcosluz/Black-Horse-Stdio">
+<a href="https://github.com/LucasKiraly/DataScience-PTBR">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Black-Horse-Stdio&theme=ayu-mirage"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-PTBR&theme=midnight-purple"/>
 
 </a>
