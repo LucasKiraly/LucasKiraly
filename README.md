@@ -5,7 +5,7 @@
 ### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
 
 <!--Badge Overiew-->
-<img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=9745f5&style=for-the-badge&logo=GHOST">
+<img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=9745f5&style=for-the-badge&logo=GitHub">
 
 <p>
 
