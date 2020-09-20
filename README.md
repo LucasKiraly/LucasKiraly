@@ -24,9 +24,9 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-52575d?style=flat-square&logo=YouTube&logoColor=fddb3a&link=https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA?view_as=subscriber)](https://www.youtube.com/channel/UCmQEk_3l4zkL8Lw6a9ivbCA/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-52575d?style=flat-square&logo=Instagram&logoColor=fddb3a&link=https://www.instagram.com/eusoubrunoluz/)](https://www.instagram.com/eusoubrunoluz/)
 
-<a href="https://github.com/brunomarcosluz/Learn-Javascript">
+<a href="https://github.com/LucasKiraly/DataScience-EN">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Learn-Javascript&theme=ayu-mirage"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-EN&theme=midnight-purple"/>
 
 </a>
 
