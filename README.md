@@ -1,11 +1,10 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=calm">
-
-
-
 ### Welcome to my GitHub!
 
 <!--Badge Overiew-->
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=calm">
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=e07a5f&style=for-the-badge&logo=GitHub">
 
 <a href="https://www.kaggle.com/lucaskiraly00">
