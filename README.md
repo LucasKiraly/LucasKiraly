@@ -17,6 +17,9 @@
   <img align="left" alt="StackOverflow" width="20px" src="https://simpleicons.org/icons/stackoverflow.svg" />
 </a>
 
+<br />
+<br />
+
 ### Come in and discover the incredible world of data science!
 
 <a href="https://github.com/LucasKiraly/DataScience-EN">
