@@ -26,11 +26,14 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-### Come in and discover the incredible world of data science!
-
-<a href="https://github.com/LucasKiraly/DataScience-EN">
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
+
+
+### Come in and discover the incredible world of data science!
+
+
+<a href="https://github.com/LucasKiraly/DataScience-EN">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-EN&theme=midnight-purple"/>
 
