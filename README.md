@@ -1,6 +1,4 @@
 
-<!-- API Github Stats --> 
-
 ### Welcome to my GitHub!
 
 <!--Badge Overiew-->
@@ -16,12 +14,9 @@
   <img align="left" alt="StackOverflow" width="20px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
 
-<br />
-<br />
 
 ### About me
-<code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-
+<code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/2151/2151295.svg"></code>
 
 
 ### Languages and Tools:
