@@ -17,9 +17,10 @@
 <br />
 
 ### About me
-<a>
-  <img align="left" alt="FODA" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/2151/2151295.svg" />
-</a>
+
+- 🔭 Brazilian
+- Loskou
+
 
 
 ### Languages and Tools:
