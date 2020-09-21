@@ -1,6 +1,5 @@
 
 <!-- API Github Stats --> 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
 
 ### Welcome to my GitHub!
 
