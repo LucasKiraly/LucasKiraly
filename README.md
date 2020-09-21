@@ -14,7 +14,7 @@
   <img align="left" alt="Linkedin" width="20px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://stackoverflow.com/users/12475539/lucas-kiraly?tab=profile">
-  <img align="left" alt="StackOverflow" width="20px" src="https://simpleicons.org/icons/stackoverflow.svg" />
+  <img align="left" alt="StackOverflow" width="20px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
 </a>
 
 <br />
