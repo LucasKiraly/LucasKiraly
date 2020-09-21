@@ -16,7 +16,8 @@
 Languages and Tools:
 
 
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="20"> <img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" width="30" height="20">
+<img src="https://img.icons8.com/nolan/2x/python.png" alt="Python" width="30" height="20">
+<img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" width="30" height="20">
 
 </p>
 
