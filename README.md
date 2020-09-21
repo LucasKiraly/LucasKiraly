@@ -23,7 +23,9 @@ Hi, I'm Lucas Kiraly
 
 
 **Languages and Tools:**
+
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
