@@ -24,7 +24,7 @@ Languages and Tools:
 [![Gmail Badge](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=9745f5&link=mailto:lucas.kiralycs@gmail.com)](mailto:lucas.kiralycs@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=9745f5&link=https://www.linkedin.com/in/lucas-kiralycs/)](https://www.linkedin.com/in/lucas-kiralycs/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=Kaggle&logoColor=9745f5&link=https://www.kaggle.com/lucaskiraly00)](https://www.kaggle.com/lucaskiraly00)
-[![Stack Overflow](https://img.shields.io/badge/-Stack Overflow-black?style=flat-square&logo=Stack Overflow&logoColor=9745f5&link=https://stackoverflow.com/users/12475539/lucaskiraly?tab=profile)](https://stackoverflow.com/users/12475539/lucaskiraly?tab=profile)
+[![Stack Overflow Badge](https://img.shields.io/badge/-Stack Overflow-black?style=flat-square&logo=Stack Overflow&logoColor=9745f5&link=https://stackoverflow.com/users/12475539/lucaskiraly?tab=profile)](https://stackoverflow.com/users/12475539/lucaskiraly?tab=profile)
 
 <a href="https://github.com/LucasKiraly/DataScience-EN">
 
