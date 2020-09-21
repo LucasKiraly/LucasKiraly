@@ -9,7 +9,7 @@
 
 <p>
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Ibmec logo" width="20" height="20"> Student at UniMetrocamp
+<img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Ibmec logo" width="20" height="20"> **Brazilian**
 
 <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/unimetrocamp-wyden.png" alt="Ibmec logo" width="20" height="20"> Student at UniMetrocamp
 
