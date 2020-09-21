@@ -1,6 +1,6 @@
 
 <!-- API Github Stats --> 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=darcula">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
 
 ### Hi! It's a pleasure recieve you here. Coffee? :coffee::smiley:
 
@@ -21,7 +21,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=9745f5&link=mailto:lucas.kiralycs@gmail.com)](mailto:lucas.kiralycs@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=9745f5&link=https://www.linkedin.com/in/lucas-kiralycs/)](https://www.linkedin.com/in/lucas-kiralycs/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-52575d?style=flat-square&logo=Instagram&logoColor=fddb3a&link=https://www.instagram.com/eusoubrunoluz/)](https://www.instagram.com/eusoubrunoluz/)
 
 <a href="https://github.com/LucasKiraly/DataScience-EN">
 
