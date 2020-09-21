@@ -23,7 +23,7 @@
 
 ### About me:
 
-- Brazilian :brazil:
+- Brazilian :flag_brazil:
 - Passionate data science student
 - Trying to help the community
 - Love :cherries:
