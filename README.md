@@ -22,6 +22,9 @@
 Hi, I'm Lucas Kiraly
 
 
+**Languages and Tools:**
+
+
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
 
 
