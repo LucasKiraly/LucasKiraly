@@ -19,7 +19,7 @@ Languages and Tools:
 <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="20"> <img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" width="30" height="20">
 </p>
 
-### Come in and discover the big world of statistics! :speech_balloon::
+### Come in and discover the big world of statistics! :bar_chart::
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=9745f5&link=mailto:lucas.kiralycs@gmail.com)](mailto:lucas.kiralycs@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=9745f5&link=https://www.linkedin.com/in/lucas-kiralycs/)](https://www.linkedin.com/in/lucas-kiralycs/)
