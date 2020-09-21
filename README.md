@@ -2,6 +2,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
 
 
+
 ### Welcome to my GitHub!
 
 <!--Badge Overiew-->
@@ -30,10 +31,6 @@
 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
-
-
-
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
 
 
 ### Come in and discover the incredible world of data science!
