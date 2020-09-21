@@ -19,7 +19,9 @@
 <br />
 <br />
 
-Hi, I'm Lucas Kiraly
+### About me
+<code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+
 
 
 ### Languages and Tools:
