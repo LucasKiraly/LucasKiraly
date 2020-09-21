@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=9745f5&style=for-the-badge&logo=GitHub">
 
 <a href="https://www.kaggle.com/lucaskiraly00">
-  <img align="left" alt="Kaggle" width="20px" src="https://simpleicons.org/icons/kaggle.svg" />
+  <img align="left" alt="Kaggle" width="20px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/lucas-kiralycs/">
   <img align="left" alt="Linkedin" width="20px" src="https://simpleicons.org/icons/linkedin.svg" />
