@@ -1,5 +1,6 @@
 
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-EN&theme=midnight-purple"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
+
 
 ### Welcome to my GitHub!
 
