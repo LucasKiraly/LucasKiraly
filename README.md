@@ -4,9 +4,9 @@
 
 <!--Badge Overiew-->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=calm">
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=e07a5f&style=for-the-badge&logo=GitHub">
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=calm">
 
 <a href="https://www.kaggle.com/lucaskiraly00">
   <img align="left" alt="Kaggle" width="20px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
