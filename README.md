@@ -25,7 +25,6 @@
 
 - Brazilian
 - Passionate data science student
-- Trying to help the community
 - Love :cherries:
 
 
