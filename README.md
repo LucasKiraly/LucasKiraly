@@ -23,8 +23,8 @@
 ### About me:
 
 - Brazilian
-- I love data science
-- My favourite fruit is :cherries:
+- Data Science Student
+- Love :cherries:
 
 
 
