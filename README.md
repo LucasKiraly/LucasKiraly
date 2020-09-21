@@ -17,7 +17,9 @@
 <br />
 
 ### About me
-<code><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/2151/2151295.svg"></code>
+<a>
+  <img align="left" alt="FODA" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/2151/2151295.svg" />
+</a>
 
 
 ### Languages and Tools:
