@@ -9,11 +9,11 @@
 
 <p>
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" width="20" height="20"> **Brazilian**
+<img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" width="20" height="20">  **Brazilian**
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/3173/3173819.svg" alt="University" width="20" height="20"> Student at UniMetrocamp
+<img src="https://www.flaticon.com/svg/static/icons/svg/3173/3173819.svg" alt="University" width="20" height="20">  Student at UniMetrocamp
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/3281/3281284.svg" alt="Monitor" width="30" height="20"> Currently studying **Data Science**
+<img src="https://www.flaticon.com/svg/static/icons/svg/3281/3281284.svg" alt="Monitor" width="30" height="20">  Currently studying **Data Science**
 
 Languages and Tools:
 
