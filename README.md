@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/lucas-kiralycs/">
   <img align="left" alt="Linkedin" width="20px" src="https://simpleicons.org/icons/linkedin.svg" />
 </a>
+<a href="https://stackoverflow.com/users/12475539/lucas-kiraly?tab=profile">
+  <img align="left" alt="StackOverflow" width="20px" src="https://simpleicons.org/icons/stackoverflow.svg" />
+</a>
 
 
 <p>
@@ -28,12 +31,6 @@
 <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="20"> <img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" width="30" height="20">
 </p>
 
-### Come in and discover the big world of statistics! :bar_chart::
-
-[![Gmail Badge](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=9745f5&link=mailto:lucas.kiralycs@gmail.com)](mailto:lucas.kiralycs@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=9745f5&link=https://www.linkedin.com/in/lucas-kiralycs/)](https://www.linkedin.com/in/lucas-kiralycs/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=Kaggle&logoColor=9745f5&link=https://www.kaggle.com/lucaskiraly00)](https://www.kaggle.com/lucaskiraly00)
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-black?style=flat-square&logo=StackOverflow&logoColor=9745f5&link=https://stackoverflow.com/users/12475539/lucaskiraly?tab=profile)](https://stackoverflow.com/users/12475539/lucaskiraly?tab=profile)
 
 ### Come in and discover the incredible world of data science!
 
