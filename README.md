@@ -15,8 +15,7 @@
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/3281/3281284.svg" alt="Monitor" width="30" height="20">  Currently studying **Data Science**
 
-Languages and Tools:
-
+**Languages and Tools:**
 
 <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="20"> <img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" width="30" height="20">
 </p>
