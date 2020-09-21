@@ -13,7 +13,6 @@
 
 <p>
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" width="20" height="20">  **Brazilian**
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" width="20" height="20">  **Brazilian**
 
