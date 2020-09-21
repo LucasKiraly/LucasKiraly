@@ -2,7 +2,7 @@
 <!-- API Github Stats --> 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
 
-### Come in and discover the incredible world of data science>!
+### Welcome to my GitHub!
 
 <!--Badge Overiew-->
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=9745f5&style=for-the-badge&logo=GitHub">
