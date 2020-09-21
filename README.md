@@ -1,4 +1,5 @@
 
+
 ### Welcome to my GitHub!
 
 <!--Badge Overiew-->
@@ -21,8 +22,9 @@
 
 ### About me:
 
-- 🔭 Brazilian
-- Loskou
+- Brazilian
+- I love data science
+- My favourite fruit is :cherry:
 
 
 
