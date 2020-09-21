@@ -13,6 +13,9 @@
 
 <img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" width="30" height="20"> Currently studying **Javascript** and **Web Frameworks**
 
+Languages and Tools:
+<img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" width="30" height="20">
+
 </p>
 
 ### Let's drink coffee together :speech_balloon::
