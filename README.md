@@ -7,7 +7,13 @@
 <!--Badge Overiew-->
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=9745f5&style=for-the-badge&logo=GitHub">
 
+<a href="https://www.kaggle.com/lucaskiraly00">
+  <img align="left" alt="Kaggle" width="20px" src="https://simpleicons.org/icons/kaggle.svg" />
+</a>
+
 <p>
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" width="20" height="20">  **Brazilian**
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" width="20" height="20">  **Brazilian**
 
