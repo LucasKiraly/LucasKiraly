@@ -8,6 +8,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=LucasKiraly&color=e07a5f&style=for-the-badge&logo=GitHub">
 
+
 <a href="https://www.kaggle.com/lucaskiraly00">
   <img align="left" alt="Kaggle" width="20px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>
@@ -23,7 +24,8 @@
 ### About me:
 
 - Brazilian
-- Data Science Student
+- Passionate data science student
+- Trying to help the community
 - Love :cherries:
 
 
