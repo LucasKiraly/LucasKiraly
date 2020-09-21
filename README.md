@@ -38,12 +38,12 @@
 
 <a href="https://github.com/LucasKiraly/DataScience-EN">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-EN&theme=midnight-purple"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-EN&theme=calm"/>
 
 </a>
 
 <a href="https://github.com/LucasKiraly/DataScience-PTBR">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-PTBR&theme=midnight-purple"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-PTBR&theme=calm"/>
 
 </a>
