@@ -10,9 +10,12 @@
 <a href="https://www.kaggle.com/lucaskiraly00">
   <img align="left" alt="Kaggle" width="20px" src="https://simpleicons.org/icons/kaggle.svg" />
 </a>
+<a href="https://www.linkedin.com/in/lucas-kiralycs/">
+  <img align="left" alt="Linkedin" width="20px" src="https://simpleicons.org/icons/linkedin.svg" />
+</a>
+
 
 <p>
-
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" width="20" height="20">  **Brazilian**
 
