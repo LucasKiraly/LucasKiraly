@@ -1,5 +1,5 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=calm">
 
 
 
@@ -20,7 +20,7 @@
 
 <br />
 
-### About me
+### About me:
 
 - 🔭 Brazilian
 - Loskou
