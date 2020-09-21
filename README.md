@@ -31,6 +31,8 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 <a href="https://github.com/LucasKiraly/DataScience-EN">
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LucasKiraly&show_icons=true&theme=midnight-purple">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-EN&theme=midnight-purple"/>
 
 </a>
