@@ -1,6 +1,6 @@
 
 
-### Welcome to my GitHub!
+### :cherries:Welcome to my GitHub!
 
 <!--Badge Overiew-->
 
@@ -21,18 +21,18 @@
 
 <br />
 
-### About me:
+### :cherries:About me:
 
-- :cherries:Brazilian
-- :cherries:Passionate data science student
+- Brazilian
+- Passionate data science student
 
-### Languages and Tools:
+### :cherries:Languages and Tools:
 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
 
 
-### Come in and discover the incredible world of data science!
+### :cherries:Come in and discover the incredible world of data science!
 
 
 <a href="https://github.com/LucasKiraly/DataScience-EN">
