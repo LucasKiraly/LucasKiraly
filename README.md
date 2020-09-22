@@ -21,18 +21,18 @@
 
 <br />
 
-### :cherries:About me:
+### About me:
 
 - Brazilian
 - Passionate data science student
 
-### :cherries:Languages and Tools:
+### Languages and Tools:
 
 <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
 
 
-### :cherries:Come in and discover the incredible world of data science!
+### Come in and discover the incredible world of data science!
 
 
 <a href="https://github.com/LucasKiraly/DataScience-EN">
