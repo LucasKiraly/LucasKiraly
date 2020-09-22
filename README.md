@@ -1,6 +1,6 @@
 
 
-### :cherries:Welcome to my GitHub!
+### Welcome to my GitHub!
 
 <!--Badge Overiew-->
 
