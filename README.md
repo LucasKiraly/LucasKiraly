@@ -23,11 +23,8 @@
 
 ### About me:
 
-- Brazilian
-- Passionate data science student
-- Love :cherries:
-
-
+- :cherries:Brazilian
+- :cherries:Passionate data science student
 
 ### Languages and Tools:
 
