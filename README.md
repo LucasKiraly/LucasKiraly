@@ -22,7 +22,7 @@
 <br />
 
 ### About me:
-
+- 20 years old
 - Brazilian
 - Passionate data science student
 
