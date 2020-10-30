@@ -45,3 +45,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=DataScience-PTBR&theme=calm"/>
 
 </a>
+
+<a href="https://github.com/LucasKiraly/Datasets">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKiraly&repo=Datasets&theme=calm"/>
+
+</a>
